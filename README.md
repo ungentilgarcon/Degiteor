@@ -14,5 +14,7 @@ et voila...
 
 
 copyright GPL v3
+So far tested on various Debian installs,
+Report issues, I'll be happy to fix them ;).
 
 You like it? then star it!
