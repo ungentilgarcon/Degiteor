@@ -1,4 +1,4 @@
-#DEGITEOR is a script to setup and deploy in seconds to a server meteor apps stored on  gits somewhere.
+#DEGITEOR is a script to setup and deploy to a server,  meteor apps stored on  gits somewhere in seconds.
 
 The app get setup the right way, with it's files being stored under a /home/APP_NAME directory tree and run by a user without privilege, using it's own unpriviledge node and meteor installs.
 
